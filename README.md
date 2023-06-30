@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding Leo" src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="400" height="300" />
 
-I'm a 14-year-old aspiring software engineer 💻 and an Oxford University student 🎓. I love coding, learning new technologies, and contributing to open-source projects. Welcome to my GitHub profile, where you can find a collection of my personal projects and collaborations.
+I'm an aspiring (?) software engineer 💻 and an Oxford University student 🎓. I love coding, learning new technologies, and contributing to open-source projects. Welcome to my GitHub profile, where you can find a collection of my personal projects and collaborations.
 
 ## 🌱 My Interests
 
