@@ -35,4 +35,3 @@ I'm a 14-year-old aspiring software engineer 💻 and an Oxford University stude
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/synthwavedd)
 
 > ⭐️ Don't forget to star my repositories if you find them interesting!
-HyperWrite Logo
