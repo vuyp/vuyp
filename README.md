@@ -7,8 +7,6 @@
 
 - ask me about **ai**
 
-- reach me via **hi@synthwavedev.com**
-
 - fun fact: **i talk too much**
 
 <h3 align="left">Connect with me:</h3>
